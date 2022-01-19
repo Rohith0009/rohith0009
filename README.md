@@ -1,6 +1,6 @@
 > # **Hi there** 👋
 
-**I Am Rohith M** A Yong Developer At The Age Of 12 Years. I Really Like To Create Apps And Websites On My Own <br> <br>
+**I Am Rohith M** A Yong Developer At The Age Of 12 Years. I Love To Create Apps And Websites On My Own <br> <br>
 
 > ## 🧑‍💻 My Skills
 ### Coding <br>
