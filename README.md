@@ -5,8 +5,8 @@
 > ## 🧑‍💻 My Skills
 ### Coding <br>
 It Is One Of My Hobbies And Skills. I Love Coding A Lot And My Dream Is To Become A Developer! I Know Many Coding Languages Some Are:
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JS
 - Python
 - Node.js
