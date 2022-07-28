@@ -25,17 +25,7 @@
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<br />
-
-> ## 📞 Contact
- - Email: rohithmerala@gmail.com
- - Github: https://github.com/rohith0009
- - Discord Server: https://discord.gg/bkpZymmXyA
- - Twitter: https://twitter.com/RohithM0009
- - Telegram: https://t.me/Rohith0009
+<a href="https://twitter.com/rohith0009"><img alt="rohith0009 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+<a href="https://discord.gg/bkpZymmXyA"><img alt="rohith0009 | Twitter" width="21px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /></a>
+<a href="https://t.me/Rohith0009"><img alt="rohith0009 | Twitter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" /></a>
+<a href="https://www.youtube.com/channel/UC8Zx1CqdlBFz2Aovv7OI11Q"><img alt="rohith0009 | Twitter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" /></a>
