@@ -4,7 +4,7 @@ Hi 👋 My name is Rohith M
 A Developer
 -----------
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [My Website](http://rohithm.netlify.app)
 * ✉️  You can contact me at [rohithmerala@gmail.com](mailto:rohithmerala@gmail.com)
 * 🧠  I'm learning Python and React
