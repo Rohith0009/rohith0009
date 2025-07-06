@@ -4,10 +4,10 @@ Hi 👋 My name is Rohith M
 A Developer
 -----------
 
-* 🌍  I'm based in Singapore
+* 🌍  I'm based in Singapore, North Vista Secondary School
 * 🖥️  See my portfolio at [My Website](http://rohithm.netlify.app)
 * ✉️  You can contact me at [rohithmerala@gmail.com](mailto:rohithmerala@gmail.com)
-* 🧠  I'm learning Python and React
+* 🧠  I'm learning Python and C++
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/Rohithm0009" target="_blank" rel="noreferrer"><img
